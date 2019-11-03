@@ -19,7 +19,7 @@ from userbot.events import register
 UNAPPROVED_MSG = (
     "`Hello! This is an automated message.\n\n`"
     "`Mera BOss Busy hai khi aur jake gand marao.`"
-    "`Rukjaa thdi der tb tk @Amazers03_bot pe msg krle.`"
+    "`IMP kaam ho toh @Amazers03_bot pe msg krlo.\n\n`"
     "`Nhi th khi aur jake Maa Chudao aur faltu message kiya th reply nhi aaega.\n\n`"
     "`Until then, please don't spam my PM, you'll get blocked and reported!`")
 # =================================================================
